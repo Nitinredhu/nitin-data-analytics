@@ -48,11 +48,6 @@ Currently focused on **health & wellness analytics** and **marketing strategy op
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
 
 ## 🎓 Certifications
 - Google Data Analytics Professional Certificate (2024)
